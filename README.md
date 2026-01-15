@@ -1,2 +1,2 @@
 # FCNNvsCNN
-Confronto delle reti neurali con più configurazioni
+Confronto di reti neurali con più configurazioni
