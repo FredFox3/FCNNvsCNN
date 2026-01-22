@@ -1,4 +1,3 @@
-# FCNNvsCNN
 # Confronto Sistematico: FCNN vs CNN su MNIST
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
